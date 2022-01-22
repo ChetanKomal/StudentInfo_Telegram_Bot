@@ -1,6 +1,6 @@
 # StudentInfo_Telegram_Bot
 
-Link: t.me/cuhpb19_bot
+Link: <a href="https://t.me/cuhpb19_bot">LINK</a>
 
 Modules used:
 1. openpyxl
